@@ -1,0 +1,14 @@
+# JUCE
+**/Builds
+**/JuceLibraryCode
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.vcxproj*
+*.sln.docstates
+
+# OS
+.DS_Store
+Thumbs.db
