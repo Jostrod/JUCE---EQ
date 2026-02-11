@@ -1,6 +1,6 @@
 # JUCE--EQ
 
-⚠️ Status: Still in early development, work in progress
+⚠️ Status: In active development, still in the early stages
 
 
 ## Overview
